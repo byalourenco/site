@@ -1,0 +1,41 @@
+body{
+    background-color: #e4e4e4;
+}
+
+header{
+    background-color: rgb(130,112,112);
+    padding: 3%;
+}
+
+.logo{
+    background-color: #00FFFF;
+}
+
+nav{
+    background-color: #A0522D;
+}
+
+main{
+    background-color: #FF1493;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+section{
+    background-color: #ffffff;
+}
+
+footer{
+    background-color: #B0E0E6;
+    padding: 3%;
+
+}
+
+.cabecalho{  /* recuperando a config*/
+    padding: 3%;
+}
+
+.rodape{   /* recuperando a config*/
+    padding: 3%;
+}
